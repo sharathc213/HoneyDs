@@ -15,7 +15,7 @@ cd /tmp/ && wget https://github.com/sharathc213/HoneyDs/blob/main/deploy_server.
 ```
 
 sudo su
-cd /tmp/ && wget https://gitlab.com/Abdu007/honey-ds/-/raw/master/deploy_sensor.sh && bash deploy_sensor.sh
+cd /tmp/ && https://github.com/sharathc213/HoneyDs/blob/main/deploy_sensor.sh && bash deploy_sensor.sh
 
 ```
 
