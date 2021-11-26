@@ -1,0 +1,6 @@
+
+# Description: Katya (КАТЯ) is not a malicious program itself, it is online SQLi scanner.
+
+# Reference: https://twitter.com/PRODAFT/status/1191988333855019009
+
+http://45.138.157.242

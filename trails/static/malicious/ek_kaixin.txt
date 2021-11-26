@@ -1,0 +1,18 @@
+
+# Reference: https://twitter.com/adrian__luca/status/1199660603796787200
+# Reference: https://www.virustotal.com/gui/ip-address/154.197.27.79/relations
+
+154.197.27.79:8080
+cannhax.com
+haihaoip.com
+invenipp.com
+invenr2.com
+sz1004.com
+xy6664.com
+yahoipp.com
+
+# Reference: https://twitter.com/_CPResearch_/status/1267064065672859648
+
+bamyatv.com
+ggmovi.com
+sznamu.com

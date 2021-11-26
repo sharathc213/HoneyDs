@@ -1,0 +1,1552 @@
+ 
+
+# Suspicious user-agent regular expressions
+
+# Reference: https://rules.emergingthreats.net/
+
+\(\) { :;
+2search
+404search
+91cast
+\A\w{1,2}\Z
+\A[^ ]\Z
+\(spkg\)
+_test_
+aaaabbb
+absinthe
+\Aaccess\b
+access down
+acunetix
+ad-protect
+\Aadlib
+agavadwnl
+\Aagent\Z
+alawar toolbar
+\Aalina v
+\Aanonym
+antispyware
+antivermeans
+antivirgear
+anycleaner
+apachebench
+api-guide test program
+\Aasd\Z
+askpartner
+asktoolbar
+asmupdater
+atomic_email_hunter
+\Aatsu
+attacker
+auctionplusup
+autodl
+autohotkey
+autoit
+\Aav2010
+\Ab register
+babykrokodil
+\Ababylon
+backdoor
+backdor
+backman
+bad_bot
+\Abar\Z
+bdsclk
+bdwinrun
+beacon
+bgroom
+binget
+bitkinex
+blackhat
+blacksun
+blahrx
+bnddriveloader
+bndveano4getdownldr
+bot (scan|search)
+bot for jce
+\Abrowser\Z
+bsqlbf
+bugmaal
+\Abuild
+\Abundle\Z
+\Abwl\Z
+changhuatong
+chilkatupload
+\Achk profile
+\Achrome( [\d.]+)?\Z
+\Acityreview
+\Acleancop
+clickteam
+clshttp
+\Acommonname
+\Aconnector v
+coolstreaming
+\Acount
+\Acounters
+\Acpush_
+crazybro
+crowdstrike
+cs fingerprint module
+\Actt\Z
+customspy
+cyberdog
+damn small
+darecover
+darkness
+datacha0s
+\Adbcount
+decebavl
+deepdoupdate
+\Ademo\Z
+\Ademomake
+dialer
+\Adinstaller
+dirbuster
+dns extractor
+doctorpro
+doctorvaccine
+doshowmeanad
+\Adotbot
+downing
+\Adownload agent\Z
+download master
+\Adownloaded
+\Adownloader\Z
+\Adownloadmr
+drivecleaner
+drpcclean
+dsmbvctfre
+\bdummy\b
+eeloader
+egypack
+\Aei\Z
+emailsiphon
+errn200
+errornuker
+\Aers\Z
+\Aesb\Z
+eshopee
+evnuker
+\Aexabot
+\Aexample\Z
+\Aexe2
+\Aexplorer\Z
+ezshop
+\Aezula
+facecooker
+fast browser search
+favupdate
+fdmuiless
+\Afeat\b
+\Afetcher\b
+fhscan
+fian3manager
+\Afile\b
+filebulldog
+filedownloader
+fimap
+\Afirefox( [\d.]+)?\Z
+fmbvdfresct
+\Afoca
+folderwin
+forthgoer
+fs3update
+fsl \d
+fucking scanner
+fullstuff
+fwversiontestagent
+gabpath
+\Agator
+\Agbot
+general antivirus
+get_site
+getjob
+gh20
+giftz
+\Aglobal\Z
+go-diva
+godzilla
+gomtour
+\Agoogle page
+gsa-crawler
+gtbank
+guidtracker
+Hakai/2.0
+hardcore software
+havij
+\Ahelpsrvc
+hoic
+http_connect
+http_down
+http_filedown
+http_get_comm
+\Ahttp_query
+httperf
+httpfiledown
+httpgetdata
+httping
+httrack
+huai_huai
+hydra
+i-scan
+\biamx
+ibsband-
+\Aie\Z
+ie6 on windows xp
+ie_6\.0
+iedefender
+iefeatsl
+\Aiep\Z
+ietoolbar
+\Aiexplore(r)?( [\d.]+)?\Z
+\Aim download
+immoral
+inetall
+\Ainfobox
+\Ainstall_
+installcapital
+installnotify
+\Ainternet\Z
+internet  explorer
+internet antivirus
+\Ainternetsecurity
+invokead
+ioinstall
+isc systems irc
+isecu
+ismazo
+istsvc
+\Aisupd
+\Aiwin
+\Aiwonsearch
+jorgee
+krmak
+krsystem
+kuku
+\ALARK
+letitgo
+\blibweb
+lineguide
+linkrunner
+live enterprise suite
+lmaokaazldr
+\bloader
+lobo lunar
+\Alocus
+\bloic
+\Alotto
+lsosss
+\Alynx\Z
+m a mu mu mu
+machaon
+\bmacrovision_dm
+magic netinstaller
+malwarewipe
+\bmama\b
+masscan
+mazilla
+\Ambar
+mbescvdfrt
+\Amc_v1
+\Amdms
+mdodo
+\Ameinv\d
+metasploit
+microgaming install program
+\Amicrosoft\Z
+mirar_
+missigua locator
+morfeus
+mot-mpx220
+moxilla
+moziea
+mozila
+\Amozilla ( [\d.]+)?\Z
+mozillar
+mozzila
+mrgud
+\Ams\Z
+msdn surfbear
+msgplus3
+\Amsie( [\d.]+)?\Z
+msiecrawler
+\bmsndown
+\bmuseon
+\bmy session
+myagent
+\bmyie\b
+mypcdoc
+mysqloit
+myway
+\Anavhelper
+nento
+\bnento
+neonabyupdate
+nessus
+\Anetcfg
+netinstaller
+netscafe
+netsparker
+nexpose
+nguideup
+nikto
+nit_love
+nmap
+\Anobo
+nqx315
+nsauditor
+nsis_inetc
+\Ansisdl
+nuker
+nv32ts
+offline explorer
+oinc
+onandon
+openpage
+openvas
+\Aopera( [\d.]+)?\Z
+\Aossproxy
+ossproxy
+our_agent
+owasp
+owasp_secret_browser
+pangolin
+\Apass\Z
+pcclear
+\Apcdoc
+pcflashbang
+\Apcsafe
+pcsafe
+phpcrawl
+pilipinas
+pinballcorp
+pint_agency
+pivim
+pockethttp
+poller
+\Apopup
+printf ["']
+privoxy
+proscan-down
+proxydown
+\Apsi\Z
+\Apts\Z
+\Apwmi
+pxyscand
+qdrbi starter
+qiu shou gou
+qqgame
+\Aqvod
+rangecheck/
+recon-ng
+rekom
+releasexp
+rescue/
+revolt
+\Arevolution
+rhyno321
+richcasino
+rivest
+rogue
+rome0321
+rookie
+\brx bar
+\Asaiv
+\Asave\Z
+scanalert
+scrapebox
+\Asearch toolbar
+searchprotect
+\Asearchtool
+\Asecurityinternet
+sefastsetup
+\Asendfile
+seobot
+sextrackerwsi
+sgrunt
+\Ashell
+\Ashini
+\bsi25
+sicklebot
+sickloader
+\Asidebar
+\Asidesearch
+simpleclient
+sitelockspide
+sitesnagger
+sitesucker
+skolovani
+skw000
+skypee
+slayer
+\bsleep\b
+smaal
+smart-rtp
+\Asme32
+smileware
+snatch-system
+snoopstick
+sogouexplorerminisetup
+sogouime
+something
+\Asosospider
+speedrunner
+sprout game
+spydawn
+spyheal
+spylocked
+sql power injector
+sqlmap
+sqlninja
+srinstaller
+srrecover
+ssol netinstaller
+statistican
+stbhoget
+steroid download
+sucuri integrity monitor
+suggestion
+sun4u
+synapse
+system32
+sznotifyident
+tabtoolbarup
+talwinhttpclient
+tbonas
+tcbfrvdems
+tear application
+teleport
+\Atesla
+\Atest\Z
+\Atiehttp
+\Atiny
+\Atoolbar
+tools\.ua\.random
+\Atpsystem
+\Atravel update
+trymedia_dm_
+\Atsa/
+twiceler
+u2clean
+ubrenquatrorusdldr
+\Audonkey
+ultimate fixer
+\Aumbra\Z
+\Aunknown
+\Aupdate\Z
+update internet antivirus
+\Aupdater\Z
+\Aupdates downloader
+updatesodui
+\Auphttp
+\Aus\Z
+\Auser agent
+user_check
+\Avaccine
+vaccinekiller
+\Avb wininet
+vbtagedit
+vbusers
+vctestclient
+vertexnet
+vhibot
+vikiller ctrl
+\Aviper
+virus_kill
+viruscheck
+virusheat
+virusprotectpro
+vmozilla
+vomba
+vulnerable
+vulture
+w00tw00t
+w3af
+wb v\d
+webcount
+\Awebfile
+webstripper
+webvulncrawl
+wep search
+\Awget( \d)?\Z
+whcc
+\Awhitehat
+widgitoolbar
+winbutler
+windoss
+\Awindows 5.1 \(2600\)
+\Awindows internet
+windows updates manager
+winfix master
+winfixmaster
+wininetget/
+\Awinlogon
+\Awinsoftware
+wintouch
+wizpop
+\Awnames
+worked
+wpscan
+wt_get_comm
+\Awta_
+wtinstaller
+wtrecover
+xehanort321
+xiehongwei
+xmlset_roodkcable
+xsock config
+xxx
+\Ayandex
+yhrbg
+yodao
+\Ayok agent
+yourscreen
+z00sagent
+zc xml-rpc
+\Azc xml-rpc
+zc-bridgev
+\Azcom
+zealbot
+zeroup
+\bzmeu\b
+\Azz_
+
+# Reference: https://blog.sucuri.net/2015/12/remote-command-execution-vulnerability-in-joomla.html
+
+JDatabaseDriverMysqli
+
+# Reference: https://twitter.com/Racco42/status/1053336574753148928
+# Reference: https://www.hybrid-analysis.com/sample/f65ba1cc50b29dd05ddaa83242f4b7bd0429841bfc4befa9e203cb6621d2389b?environmentId=100
+
+4RR0B4R 4 X0T4 D4 TU4 M4E
+
+# Reference: https://twitter.com/bad_packets/status/1083657979788816384
+
+Hello, World
+Gemini
+
+# Reference: https://twitter.com/bad_packets/status/1083896276641472514
+
+OSIRIS
+
+# Reference: https://twitter.com/bad_packets/status/1078192846048452608
+
+Rift
+
+# Reference: https://twitter.com/nmatte90/status/1102263049203998722
+
+NotRift
+
+# Reference: https://twitter.com/bad_packets/status/1111777543869194240
+
+HaxerMen
+
+# Reference: https://twitter.com/ankit_anubhav/status/1069562868918566914
+
+jexboss
+
+# Reference: https://twitter.com/bad_packets/status/1095565095361368064
+
+Hacks
+
+# Reference: https://twitter.com/bad_packets/status/1088707628442644480
+
+Ronin
+
+# Reference: https://twitter.com/bad_packets/status/1088711085375479809
+
+\AOof\Z
+
+# Reference: https://perchsecurity.com/perch-news/threat-report-sunday-february-3rd-2019/
+
+Cayosin
+Cock
+
+# Reference: https://unit42.paloaltonetworks.com/mirai-compiled-for-new-processor-surfaces/
+
+Blade/2.0
+Hello-World
+Hito
+
+# Reference: https://securitywithoutborders.org/blog/2019/03/29/exodus.html
+
+it\.promofferte
+
+# Reference: https://twitter.com/SettiDavide89/status/1116682737455382528
+
+ransomware
+
+# Reference: https://research.checkpoint.com/the-muddy-waters-of-apt-attacks/
+
+Mozilla/4.0 (compatible; Clever Internet Suite)
+
+# Reference: https://twitter.com/James_inthe_box/status/1119932303088578561
+
+QXQ_35
+
+# Reference: https://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html
+
+iq\.46
+
+# Reference: https://twitter.com/360Netlab/status/974374944711815168
+
+Geth
+
+# Reference: https://www.netskope.com/blog/malicious-google-sites
+
+otlook
+
+# Reference: https://twitter.com/0xrb/status/1121820943972593665
+
+Nakuma
+
+# Reference: https://twitter.com/0x13fdb33f/status/1122544651628576768
+# Reference: https://www.kernelmode.info/forum/viewtopic.php?p=32871
+# Reference: https://otx.alienvault.com/pulse/5cc6ca1e69cc6cfee80974a7
+
+Miner
+Unzip
+
+# Reference: https://twitter.com/0xrb/status/1122728648996298752
+
+Cakle
+
+# Reference: https://twitter.com/0xrb/status/1123149312689491973
+
+NoPublicity
+
+# Reference: https://twitter.com/James_inthe_box/status/1079757827030142976
+# Reference: https://github.com/silence-is-best/c2db#netsupport-rat
+
+NetSupport Gateway
+NetSupport Manager
+
+# Reference: https://bomccss.hatenablog.jp/entry/2019/04/30/235933 (Japanese)
+
+Google Chrome
+
+# Reference: https://fumik0.com/2019/05/03/lets-nuke-megumin-trojan/
+
+Megumin
+
+# Reference: https://twitter.com/bad_packets/status/1124922288862666753
+
+Snickers-Avtech
+
+# Reference: https://twitter.com/rommeljoven17/status/1052865294081781760
+
+thricer
+
+# Reference: https://twitter.com/rommeljoven17/status/1037982220005195776
+
+Owari
+
+# Reference: https://www.hybrid-analysis.com/sample/442fe9bb6820ba79ca48429df8e5a01e991302be2a0d45a35c99c5d006a1d64a
+
+FA\.G\.4\.5
+
+# Reference: https://twitter.com/jorgemieres/status/1133052016568274950
+
+Mozilla/4.08 (Charon; Inferno)
+
+# Reference: https://blog.malwarebytes.com/threat-analysis/2019/05/hidden-bee-lets-go-down-the-rabbit-hole/
+
+MinGate
+
+# Reference: https://twitter.com/bad_packets/status/1142325648888696837
+
+Liquor
+
+# Reference: https://twitter.com/malware_traffic/status/1146086054207873024
+
+dpost
+
+# Reference: https://twitter.com/eromang/status/14713546159
+# Reference: https://eromang.zataz.com/2010/05/25/suc016-user-agent-toata-dragostea-mea-pentru-diavola-scanner/
+
+Toata dragostea mea pentru diavola
+
+# Reference: https://twitter.com/eromang/status/14702343100
+# Reference: https://eromang.zataz.com/2010/04/23/suc004-phpmyadmin-user-agent-revolt-scanner/
+
+revolt
+
+# Reference: https://thehackernews.com/2017/08/android-ddos-botnet.html (# WireX)
+
+jigpuzbcomkenhvladtwysqfxr
+yudjmikcvzoqwsbflghtxpanre
+mckvhaflwzbderiysoguxnqtpj
+deogjvtynmcxzwfsbahirukqpl
+fdmjczoeyarnuqkbgtlivsxhwp
+yczfxlrenuqtwmavhojpigkdsb
+dnlseufokcgvmajqzpbtrwyxih
+
+# Reference: https://twitter.com/21doob/status/476434364516282369
+
+hello
+
+# Reference: https://twitter.com/James_inthe_box/status/1151583038087655424
+
+UniqUAF
+
+# Reference: https://www.flashpoint-intel.com/blog/newly-discovered-malware-framework-cashing-in-on-ad-fraud/
+
+Installer/23
+
+# Reference: https://twitter.com/James_inthe_box/status/1152234123844415489
+
+binary_getter/1.0
+
+# Reference: https://twitter.com/James_inthe_box/status/1153450058722865152
+
+KJW0rm
+
+# Reference: https://twitter.com/ViriBack/status/1154377089077993474
+
+Finder/28
+
+# Reference: https://www.proofpoint.com/us/threat-insight/post/brushaloader-still-sweeping-victims-one-year-later
+
+sENB2a36p61HSKES
+
+# Reference: https://twitter.com/stvemillertime/status/1151148881729789954
+
+Mozilla/5.3 (i686-iamsatan-mingw32)
+
+# Reference: https://twitter.com/reesespcres/status/1144703633377964033
+
+Mozilla/5.2 (i686-w64-mingw32)
+
+# Reference: https://twitter.com/DissectMalware/status/1069507395448184833
+
+4M2yC5u1stom4U1se3r
+
+# Reference: https://twitter.com/ItsReallyNick/status/1033413803470467072
+
+NMS\.19
+
+# Reference: https://twitter.com/PhishingAi/status/994210210389557250
+
+l33boLAMER
+
+# Reference: https://twitter.com/sixdub/status/992001190950031361
+
+WinHTTP loader/1.0
+
+# Reference: https://twitter.com/stvemillertime/status/985150675527974912
+
+CertUtil URL Agent
+
+# Reference: https://twitter.com/malwareforme/status/918503641887096832
+
+OtherUser
+
+# Reference: https://twitter.com/stdaux/status/861217811015680001
+
+Mozilla/5.0 (ENIAC; the Electronic Numerical Integrator and Computer)
+
+# Reference: https://twitter.com/xme/status/753325697830182912
+
+Gluten Free Crawler/1.0
+
+# Reference: https://twitter.com/abuse_ch/status/700252982731018241
+
+givmafile
+
+# Reference: https://twitter.com/nimolix/status/562532331357892608
+
+parsijoo-bot
+
+# Reference: https://twitter.com/bortzmeyer/status/545492437628891136
+
+Kim Jong-un Evil Browser
+
+# Reference: http://www.behindthefirewalls.com/2013/11/the-importance-of-user-agent-in-botnets.html
+
+underworld
+system-update
+test_hInternet
+installer-agent
+sleep 300000
+
+# Reference: https://twitter.com/ericasadun/status/12333713924816896
+
+MediaControl
+
+# Reference: https://twitter.com/VK_Intel/status/1156983051974533120
+# Reference: https://www.virustotal.com/gui/file/b77a0939dc6720e349f36e368a4f222295baf3d7fdd1ef851c19fa163ade1cc5/trails
+
+ApacheBench
+
+# Reference: https://twitter.com/bad_packets/status/1157819242500149248
+
+Ankit
+
+# Reference: https://twitter.com/James_inthe_box/status/1163565834343632897
+
+\ALicense\Z
+
+# Reference: https://twitter.com/nmatte90/status/1163141154445176833
+
+Testingus
+
+# Reference: https://gist.github.com/Neo23x0/00bc2b883c530f7a12b055549e9076ff
+
+Mozilla/6.1 (compatible; MSIE 9.0; Windows NT 5.3; Trident/5.0)
+
+# Reference: https://twitter.com/ViriBack/status/991782471149801472
+
+928776C4AD04B453186FF486335CB3D2
+
+# Reference: https://twitter.com/cyb3rops/status/883717898228736003
+# Reference: https://github.com/Neo23x0/sigma/blob/master/rules/proxy/proxy_ua_malware.yml
+
+backdoorbot
+CholTBAgent
+HttpBrowser/1.0
+IczelionDownLoad
+SJZJ
+Mozilla/5.0 WinInet
+
+# Reference: https://twitter.com/x0rz/status/748858850896470016
+
+Cristmas Mystery
+
+# Reference: https://github.com/Neo23x0/sigma/blob/master/rules/proxy/proxy_ua_apt.yml
+
+O/9.27 (W; U; Z)
+
+# Reference: https://github.com/Neo23x0/sigma/blob/master/rules/proxy/proxy_ua_hacktool.yml
+
+arachni
+BFAC
+brutus
+cgichk
+core-project
+crimscanner
+domino hunter
+dotdotpwn
+FHScan Core
+floodgate
+get-minimal
+gootkit auto-rooter scanner
+grendel-scan
+inspath
+internet ninja
+jaascois
+\bmetis\b
+morfeus fucking scanner
+n-stealth
+pmafind
+security scan
+springenwerk
+teh forest lobster
+uil2pn
+\bvega\b
+voideye
+webshag
+webvulnscan
+
+# Reference: https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign
+
+Mozilla/5.0 (Windows NT 10.0; &)
+
+# Reference: https://twitter.com/luc4m/status/1166765980489584640
+# Reference: https://twitter.com/Littl3field/status/1174624023709454336
+# Reference: https://twitter.com/Bl4ng3l/status/1236946300463190017
+# Reference: https://www.brighttalk.com/webcast/15591/410870 (timecode: 08:52)
+
+ADMIN-PC
+BKRBR
+USER-PC
+WSHRAT
+
+# Reference: https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/08/01075510/TV_RMS_IoC_eng.pdf
+
+Mozilla/4.0 (compatible; RMS)
+
+# Reference: https://twitter.com/chybeta/status/1167617571287289856
+
+webmin
+
+# Reference: http://rules.emergingthreats.net/open/snort-2.9.0/rules/emerging-user_agents.rules
+
+=Mozilla
+\A123\Z
+\ACompatible\Z
+\Acv_v\Z
+\ADigital\Z
+\AESET Installer\Z
+\Ahhh\Z
+\Ahttps\Z
+\AHTTPGET\Z
+\Ai am ddos\Z
+\AIm Luo\Z
+\AINet\Z
+\AIST\Z
+\Akav\Z
+\Amin\Z
+\AMs\Z
+\AMy Agent\Z
+\AMy_App\Z
+\AMz\Z
+\AOur_Agent\Z
+\AQQ\Z
+\ATestAgent\Z
+\AVersion
+\AWindows XP\Z
+\AWindows 7\Z
+\AWindows 8\Z
+\AWindows 10\Z
+\AXML\Z
+\Axr\Z
+\AZilla\Z
+\Azwt\Z
+Accessing
+AdiseExplorer
+adlib
+adsntD
+aguarovex
+Aldi Bot
+alertup
+angel
+antispyprogram
+aria2
+Atomic_Email_Hunter
+acHTTP component
+auHTTP component
+AutoUpgrader component
+AV1
+AVP2006IE
+Avzhan
+BigFoot
+Brontok
+Download App
+DownloadNetFile
+DownloadMR
+DriveCleaner
+Caesar
+CFS Agent
+CFS_DOWNLOAD
+checkonline
+chek
+ChilkatUpload
+ClickAdsByIE
+curl53
+CustomExchangeBrowser
+Damien
+Downloader1.2
+ekeoil
+ElectroSun
+ErrCode
+ExampleDL
+FileNolja
+Firef0x
+Firefox\.\.\.
+FOCA
+Forthgoner
+GeneralDownloadApplication
+GetUrlSize
+Google page
+google/dance
+hacker
+Hentai
+HTTP_Connect_
+HTTP Downloader
+HttpDownload
+\bHTTPTEST
+JEDI-VCL
+Joseray
+IAMDDOS
+iamx
+IE6 on Windows XP
+ieagent
+ieguideupdate
+IEhook
+IE/1.0
+IEMGR
+InHold
+Inet_read
+inetinst
+Internet HTTP
+ISearchTech
+Ismazo
+ISMYIE
+keypack
+KIARA
+KKTone
+kpangupdate
+Kvadrlson
+lessie
+libsfml-network
+Loands
+LockXLS
+Machaon
+MadeBy
+MacShield
+MediaLabsSiteInstaller
+miip
+Microsoft WinRM
+M0zilla
+Mozil1a
+Mozilla-web
+Mozilla 1.02.45 biz
+Mozilla 6.0
+Mozilla/1.0 (compatible; MSIE 8.0
+Mozilla/4.0 (SPGK)
+Mozilla/4.0 (compatible; MSIE 6.0)
+Mozilla/4.0 (compatible MSIE 7.0 na .NET CLR 2.0.50727 .NET CLR 3.0.4506.2152 .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 2.1; SV3)
+Mozilla/4.7
+Mozilla/5.0 (compatible, Viper 4.0)
+Mozilla/5.0 (Windows NT 6.1; wget 3.0; rv:5.0)
+Mozzila
+MS Internet Explorer
+ms_ie
+MtGoxBackOffice
+muhstik
+MyAgent
+MYURL
+N0PE
+NateFinder
+nethelper
+Nimo Software HTTP
+node-XMLHttpRequest
+NSIS_DOWNLOAD
+okcpmgr
+onedru
+Opera/10.60 Presto/2.2.30
+Opera/8.81
+Opera/8.89
+Opera/9.10
+Opera/9.28
+PcPcUpdater
+Poker
+Poller
+PrivacyInfoUpdate
+Quick Macros
+ReadFileURL
+RBRs
+RFRudokop
+RLMultySocket
+runPatch
+runUpdater
+SAIv
+sample
+ScrapeBox
+sections
+Shaolin
+sickness29a
+SimpleClient
+Skunkx
+Snatch-System
+Solar
+SomeTimes
+SRRemove
+STORMDDOS
+SUiCiDE
+TBNotifier
+Tsunami
+\AUcheck
+Ufasoft
+up2dash
+updater_agent
+Varlok
+\bVB Http
+VERTEXNET
+WebForm
+WINDOWS_LOADS
+WindSoft
+WinProxy
+WINS_HTTP_SEND
+WINTERNET
+WT-User-Agent
+xSock
+XXXPornToolbar
+Yakuza
+Yandesk
+YourUserAgent
+Yowai
+YTDDOS
+
+# Reference: https://twitter.com/UrBogan/status/1170583647742656514
+
+DEMONS
+
+# Reference: https://twitter.com/tkanalyst/status/1171572121648033792
+
+Mozilla/4.0 (compatible; MSIE6.0b; Windows NT 5.1)
+
+# Reference: https://twitter.com/david_jursa/status/1172180368633597952
+
+N0sK0Y1OK1130Sav
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+# Reference: https://cofense.com/seeing-resurgence-demonic-astaroth-wmic-trojan/
+
+Mozilla/4.0 (compatible; HRD Utilities by I4FYV)
+
+# Reference: https://blogs.jpcert.or.jp/en/2019/09/tscookie-loader.html
+
+Mozilla/4.0 (compatible; MSIE 8.0; Win32)
+
+# Reference: https://twitter.com/tkanalyst/status/1175417561527115778
+
+ACwDTLiV
+
+# Reference: https://www.virustotal.com/gui/file/0d2ee9ade24163613772fdda201af985d852ab506e3d3e7f07fb3fa8b0853560/trails
+# Reference: https://citizenlab.ca/2019/09/poison-carp-tibetan-groups-targeted-with-1-click-mobile-exploits/
+# Reference: https://github.com/citizenlab/malware-indicators/blob/master/201909_MissingLink/iocs.csv
+# Reference: https://twitter.com/craiu/status/1176437943369703424
+
+hots scot
+
+# Reference: https://github.com/pan-unit42/iocs/blob/master/mirai/ECHOBOT_6thAug2019.md
+# Reference: https://www.exploit-db.com/exploits/29789
+
+joxypoxy
+
+# Reference: https://twitter.com/VirITeXplorer/status/1181466268110643200
+
+\Alex\Z
+
+# Reference: https://github.com/silence-is-best/c2db#darkrat
+
+\Aagent\Z
+
+# Reference: https://github.com/silence-is-best/c2db#isrstealer
+
+HardCore
+
+# Reference: https://github.com/silence-is-best/c2db#milkyboy
+
+Adzq41ceq52e353512hSfj
+
+# Reference: https://twitter.com/CRCKio/status/982216650798710792
+
+Botnet by Danij
+
+# Reference: https://www.proofpoint.com/us/threat-insight/post/APT-targets-russia-belarus-zerot-plugx
+
+Tzcdrnt
+
+# Reference: https://www.dodgethissecurity.com/2019/02/28/reverse-engineering-an-unknown-rat-lets-call-it-skidrat-1-0/
+
+Firef0x
+
+# Reference: https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/buran-ransomware-the-evolution-of-vegalocker/
+
+BURAN
+
+# Reference: https://community.rsa.com/community/products/netwitness/blog/2018/01/12/malspam-delivers-njrat-1-11-2018
+
+USRUE-VNC
+
+# Reference: https://twitter.com/James_inthe_box/status/1194592723736485889
+
+Aldi Bot
+
+# Reference: https://twitter.com/bad_packets/status/1194697097229950976
+
+Hello, poo
+
+# Reference: https://threatvector.cylance.com/en_us/home/poking-the-bear-three-year-campaign-targets-russian-critical-infrastructure.html
+
+DMFR
+
+# Reference: https://twitter.com/cyber__sloth/status/1200366623615594497
+
+51c778909b52d45286a175a24e8daf42cb6dbe43eb
+
+# Reference: https://twitter.com/pollo290987/status/1112921683592187904
+
+Mozilla 6\.0
+
+# Reference: https://twitter.com/bad_packets/status/1208656547271675905
+# Reference: https://twitter.com/bad_packets/status/1208656547271675905/photo/2
+
+ouija_a.rc
+ouija_a.rm
+ouija_a.rm4
+ouija_a.rm4l
+ouija_a.rm4t
+ouija_a.rm4tl
+ouijaa.rm4tll
+ouija_a.rmv4l
+ouija_a.rm5
+ouija_a.rm5n
+ouija_a.rm6
+ouija_a.rm64
+ouija_a.rm7
+ouija_d.bg
+ouija_e.xploit
+ouija_i.486
+ouija_i.586
+ouija_i.686
+ouija_m.68k
+ouija_m.ips
+ouija_m.ips64
+ouija_m.psl
+ouija_m.ipsel
+ouija_p.pc
+ouija_p.pc2
+ouija_p.pc440
+ouija_p.owerppc
+ouija_r.oot
+ouija_r.oot32
+ouija_s.h4
+ouija_s.sh4
+ouija_s.pc
+ouija_s.parc
+ouija_x.32
+ouija_x.64
+ouija_x.86
+ouija_x.86_32
+ouija_x.86_64 
+
+# Reference: https://exchange.xforce.ibmcloud.com/collection/Kryptik-FusionCore-ICLoader-Malware-Campaign-via-AWS-IP-e2fa5296f88a0c4ad37e4f4652c221db
+
+Christmas Mystery
+Install Capital
+
+# Reference: http://plok1.blogspot.com/2018/02/a-new-spreader-with-mimikatz.html
+
+WinHTTP loader/1.0
+
+# Reference: https://devcentral.f5.com/s/articles/is-xmaker-the-new-trickloader-24372
+# Reference: https://twitter.com/VK_Intel/status/1213253987492864000/photo/2
+
+BotLoader
+KEFIR
+TrickLoader
+WinLoader
+Xmaker
+
+# Reference: https://twitter.com/c3rb3ru5d3d53c/status/1213878934514864128
+
+undefined
+
+# Reference: https://twitter.com/bad_packets/status/1214701789649354752
+
+B4ckdoor
+
+# Reference: https://twitter.com/bad_packets/status/1229607800273113088
+
+B4ckdoor-owned-you
+
+# Reference: https://twitter.com/bad_packets/status/1271153910841925633
+
+Sa0as-owned-you
+
+# Reference: https://intezer.com/blog-new-iranian-campaign-tailored-to-us-companies-uses-updated-toolset/
+
+IEMoblie
+
+# Reference: https://twitter.com/reecdeep/status/1218098821143703552
+
+KSKJJGJ
+
+# Reference: https://twitter.com/c3rb3ru5d3d53c/status/1223790397744390146
+
+MR_ROBOT
+
+# Reference: https://twitter.com/VessOnSecurity/status/1224051153232715783
+
+dark_NeXus_Qbot
+minerword
+MSIE5.01
+Qbot
+
+# Reference: https://twitter.com/FaLconIntel/status/1226012099240873984
+# Reference: https://www.mcafee.com/blogs/other-blogs/mcafee-labs/nemty-ransomware-learning-by-doing/
+
+\AChrome\Z
+Naruto Uzumake
+
+# Reference: https://github.com/silence-is-best/c2db#cobaltstrike
+
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ENXA)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; NP06)
+
+# Reference: https://twitter.com/bad_packets/status/1236005753800048641
+# Reference: https://twitter.com/bad_packets/status/1245408005358628864
+# Reference: https://blog.radware.com/security/botnets/2020/05/whos-viktor-tracking-down-the-xtc-polaris-botnets/
+# Reference: https://blog.netlab.360.com/multiple-fiber-routers-are-being-compromised-by-botnets-using-0-day-en/
+
+polaris
+polaris botnet
+vbrxmr
+xtc
+xtcbot
+xtc bot
+xtc botnet
+
+# Reference: https://twitter.com/bad_packets/status/1233226684196773888
+
+botnet
+
+# Reference: https://twitter.com/bad_packets/status/1229464913296293888
+
+Research Only
+
+# Reference: https://twitter.com/James_inthe_box/status/1238606200154886144
+# Reference: https://twitter.com/James_inthe_box/status/1238836301555585025
+
+HTTPTool
+
+# Reference: https://github.com/silence-is-best/c2db#unknowns
+
+94af05617f4e0479d766f422f611ad5c
+
+# Reference: https://github.com/silence-is-best/c2db#expiro
+
+msie 44
+
+# Reference: https://github.com/silence-is-best/c2db#filecoderstop
+
+\AMicrosoft Internet Explorer\Z
+
+# Reference: https://github.com/silence-is-best/c2db#revcode-rat
+
+WebMonitor Client
+
+# Reference: https://blog.prevailion.com/2020/03/the-curious-case-of-criminal-curriculum.html
+
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1)
+
+# Reference: https://twitter.com/cyber__sloth/status/1241733283060297728
+
+vkTSNOQeMcMuTaPWpQtJYbp
+
+# Reference: http://contagiodump.blogspot.com/2012/04/osxflashbackk-sample-mac-os-malware.html (User-Agent info)
+# Reference: https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/ (Version table)
+
+sv:\d; id:[a-z0-9]{8}\-[a-z0-9]{4}\-[a-z0-9]{4}\-[a-z0-9]{4}\-[a-z0-9]{12}
+
+# Reference: https://blog.reversinglabs.com/blog/unpacking-kwampirs-rat
+
+ItIsMe
+
+# Reference: https://twitter.com/bad_packets/status/1245028326705512449
+
+Welcome
+
+# Reference: https://twitter.com/James_inthe_box/status/1245427754977263617
+# Reference: https://doc.emergingthreats.net/bin/view/Main/2025241
+
+Embarcadero URI Client/1.0
+
+# Reference: https://twitter.com/bryceabdo/status/1250420225008259072
+
+rubotUpdater
+
+# Reference: https://twitter.com/gibbersen/status/1250448582844518400
+
+SanAntonio
+
+# Reference: https://twitter.com/gibbersen/status/1268601591940202497
+
+PatriciaRoss
+
+# Reference: https://twitter.com/OttoScav/status/1250899211819900933
+# Reference: https://twitter.com/James_inthe_box/status/1250907772494864384
+
+sdvntyer
+\Auser_agent\Z
+
+# Reference: https://twitter.com/malwrhunterteam/status/1253381112791007233
+
+Lemon-Duck
+
+# Reference: https://twitter.com/3XS0/status/1253426730217291778
+# Reference: https://twitter.com/CyberCrimeWHQ/status/1253731037705838592
+
+Mozilla/4.0 (compatible; MSIE 6.0; Win32)
+\AMozilla/5.00\Z
+
+# Reference: https://twitter.com/James_inthe_box/status/1253870561366650880
+
+CLCTR
+
+# Reference: https://thedfirreport.com/2020/04/30/tricky-pyxie/
+
+MSIE 2.1
+
+# Reference: https://twitter.com/bad_packets/status/1244873453858983936
+
+iLLSec-Avtech
+
+# Reference: https://github.com/prasanthc41m/nidds/pull/8708
+# Reference: https://app.any.run/tasks/fd024fe5-4196-49dc-bf96-ba11418136db/
+
+\AUser-Agent User-Agent\Z
+
+# Reference: https://twitter.com/bad_packets/status/1259613095518801920
+
+\AMTM\Z
+
+# Reference: https://twitter.com/AdAstra247/status/1260258893361487873
+
+StellaStella
+
+# Reference: https://twitter.com/bad_packets/status/1264290514406240257
+
+\AM/1.0
+
+# Reference: https://yoroi.company/research/himera-and-absent-loader-leverage-covid19-themes/
+
+Absent
+
+# Reference: https://twitter.com/JAMESWT_MHT/status/1268837262516727809
+# Reference: https://app.any.run/tasks/fbce704e-e748-4898-b36a-0cab2ecd5105/
+
+WindowsNT
+
+# Reference: http://www.devttys0.com/2013/10/reverse-engineering-a-d-link-backdoor/
+# Reference: https://twitter.com/netresec/status/389449084064391168
+# Reference: https://twitter.com/avandeursen/status/393279075873075200
+
+roodkcableoj28840ybtide
+xmlset_roodkcableoj28840ybtide
+
+# Reference: https://twitter.com/DissectMalware/status/999895926113161216
+
+DAMER
+
+# Reference: https://twitter.com/incerayahoo/status/494160021907714049
+# Reference: https://isc.sans.edu/forums/diary/Interesting+HTTP+User+Agent+chrootapach0day/18453
+
+chroot-apach0day
+
+# Reference: https://twitter.com/VisualBasist/status/683229778841714688
+
+apache 0day
+
+# Reference: https://twitter.com/bad_packets/status/1271504982483726336
+# Reference: https://community.greenbone.net/t/is-greenbone-hacking-me/1134
+
+GBN-VT
+OpenVAS-VT
+
+# Reference: https://twitter.com/cyb3rops/status/874563855703298048
+
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1)
+
+# Reference: https://twitter.com/nakam32jp/status/767239263431692288
+
+Steeler/3.5
+
+# Reference: https://twitter.com/DidoGrigorov/status/1239281596630470656
+
+COVID-19
+
+# Reference: https://twitter.com/pollo290987/status/935173336589656068
+
+vjw0rm
+
+# Reference: https://twitter.com/cactus_pots/status/1048344358569762816
+
+APEP/3.0
+
+# Reference: https://twitter.com/Sec_S_Owl/status/1028317470786957312
+
+LMAO/2.0
+
+# Reference: https://twitter.com/cactus_pots/status/1059962225589403649
+
+\ADark\Z
+
+# Reference: https://twitter.com/Sec_S_Owl/status/1082282757902880768
+
+\ASefa\Z
+
+# Reference: https://sec-owl.hatenablog.com/entry/2018/10/26/165347
+# Reference: https://twitter.com/Sec_S_Owl/status/1055730146446008320
+
+\Aneko\Z
+
+# Reference: https://twitter.com/jnazario/status/1033439734994006016
+
+Shinka
+
+# Reference: https://twitter.com/siedlmarpl/status/971593279224537088
+# Reference: https://www.hybrid-analysis.com/sample/fa48cd1fd8aab4a43e9ff1f7985c549040389036a03f9117f675d8737e1b34b5?environmentId=100
+# Reference: https://www.virustotal.com/gui/file/fa48cd1fd8aab4a43e9ff1f7985c549040389036a03f9117f675d8737e1b34b5/trails
+# Reference:https://github.com/prasanthc41m/nidds/pull/9352/commits/0bdfab0724928c96203dad0bb7f1b845531a433f
+
+lahsdgs23523lsknvlsdegoet
+
+# Reference: https://twitter.com/Setzso/status/635056128259321858
+
+\ABOT/0.1\Z
+
+# Reference: https://research.checkpoint.com/2019/speakup-a-new-undetected-backdoor-linux-trojan/
+
+E9BC3BD76216AFA560BFB5ACAF5731A3
+Mobile/7B405
+Mobile/BADDA
+
+# Reference: https://twitter.com/wwp96/status/1202715543259795466
+
+4w160yBObknYBP
+
+# Reference: https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/eagle-eye-is-back-apt30/
+# Reference: https://twitter.com/Vishnyak0v/status/1273976038113017856
+
+nvidafix
+
+# Reference: https://business.xunison.com/analysis-of-samorat/
+# Reference: https://github.com/prasanthc41m/nidds/pull/9762
+
+\AnoisreV\Z
+\AotserP\Z
+\AiniM\Z
+\AarepO\Z
+
+# Reference: https://www.fortinet.com/blog/threat-research/vipersoftx-new-javascript-threat
+
+viperSoftx
+
+# Reference: https://twitter.com/James_inthe_box/status/1288889075831672833
+# Reference: https://twitter.com/James_inthe_box/status/1288933468357840896
+# Reference: https://gist.github.com/silence-is-best/c79e30feebe197d999a9da0aef80db29
+# Reference: https://github.com/prasanthc41m/nidds/pull/10138
+
+\ASoftware License Checker\Z
+
+# Reference: https://twitter.com/Bc10ver/status/1291733556838965248
+
+<script src=[^\>]*>
+
+# Reference: https://twitter.com/bad_packets/status/1292193947574362114
+
+Powerjacobb1
+
+# Reference: https://twitter.com/bad_packets/status/1293402050277986304
+
+fasthttp
+
+# Reference: https://twitter.com/reecdeep/status/1293601730618437632
+# Reference: https://app.any.run/tasks/ef5bd545-7404-440e-a86a-f00e2e89bc42/
+
+klmems
+
+# Reference: https://twitter.com/ViriBack/status/1293672393563676675
+
+F02DAB86BCA47979D007EB507D3D1F1E
+
+# Reference: https://unit42.paloaltonetworks.com/unit-42-technical-analysis-seaduke/
+
+SiteBar
+
+# Reference: https://twitter.com/malwrhunterteam/status/1296068530874519553
+
+WinWord64
+
+# Misc
+
+information_schema
+sysdatabases
+sysusers
+SELECT[^\n]*FROM[^\n]*WHERE
+\b(pg_)sleep\(
+\bUNION\s+(ALL\s+)?SELECT\b

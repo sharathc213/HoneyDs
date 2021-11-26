@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html;charset=utf8">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <meta name="robots" content="noindex, nofollow">
+        <title>HoneyDS</title>
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+        <link rel="stylesheet" type="text/css" href="css/thirdparty.min.css">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="stylesheet" type="text/css" href="css/media.css">
+        <script type="text/javascript" src="js/errorhandler.js"></script>
+        <script type="text/javascript" src="js/thirdparty.min.js"></script>
+        <script type="text/javascript" src="js/papaparse.min.js"></script>
+    </head>
+    <body>
+        <div id="header_container" class="header noselect">
+            <div id="logo_container">
+                <span id="logo"><!LOGO!></span>
+            </div>
+            <div id="calendar_container">
+                <center><span id="spanToggleHeatmap" style="cursor: pointer"><a class="header-a header-period" id="period_label"></a><img src="images/calendar.png" style="width: 25px; height: 25px; vertical-align: top"></span></center>
+            </div>
+            <ul id="link_container">
+                <li class="header-li"><a class="header-a"  href="normal.html">Normal</a></li>
+                <li class="header-li"><a class="header-a"  href="auto.html">Refresh 15s</a></li>
+                <li class="header-li"><a class="header-a hidden" id="login_link">Log In</a></li>
+            </ul>
+        </div>
+
+        <div id="heatmap_container" class="container hidden" style="text-align: center">
+            <div>
+                <button id="heatmap-previous" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" type="button" role="button">
+                    <span class="ui-icon ui-icon-carat-1-w"></span>
+                </button>
+                <button id="heatmap-next" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" type="button" role="button">
+                    <span class="ui-icon ui-icon-carat-1-e"></span>
+                </button>
+                
+            </div>
+
+            <div style="display: inline-block; float: top; vertical-align: top; margin-top: 10px">
+                <div id="cal-heatmap" style="display: inline-block"></div>
+            </div>
+        </div>
+
+       
+                <div>
+                    <!--<label>title</label>-->
+                    <img id="graph_close" src="images/close.png" class="hidden" title="close">
+                </div>
+                <div id="chart_area">
+                </div>
+            </div>
+
+            <table width="100%" border="1" cellpadding="2" cellspacing="0" class="display compact" id="details">
+            </table>
+        </div>
+
+        <noscript>
+            <div id="noscript">
+                Javascript is disabled in your browser. You must have Javascript enabled to utilize the functionality of this page.
+            </div>
+        </noscript>
+
+        <div id="bottom_blank"></div>
+        <div class="bottom noselect">Powered by <b>HoneyDS</b> (v<b><!VERSION!></b><!STATICS!>)</div>
+
+        <script type="text/javascript" src="js/main.js"></script>
+
+
+    </body>
+</html>

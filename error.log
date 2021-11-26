@@ -1,0 +1,13 @@
+2021-11-23 03:47:19 
+
+[!] unhandled exception occurred ('not all arguments converted during string formatting')
+[x] please report the following details at '':
+---
+'Traceback (most recent call last):
+  File "/home/kali/Desktop/honeyds-master/sensor.py", line 1398, in <module>
+    main()
+  File "/home/kali/Desktop/honeyds-master/sensor.py", line 1326, in main
+    print("flag"%flag)
+TypeError: not all arguments converted during string formatting
+'
+---

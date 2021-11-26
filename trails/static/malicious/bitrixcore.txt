@@ -1,0 +1,15 @@
+
+# Generic trails for compromised 1C Bitrix CMS
+
+# Reference: http://marketplace.1c-bitrix.ru/blog/remove-virus-miner-from-the-site-to-1cbitrix/ (RU-lang)
+
+# JS
+
+/lib/crypta.js
+/bitrix/js/main/core/core_loader.js
+/bitrix/js/main/core/core_tasker.js
+
+# PHP
+
+/bitrix/tools/check_files.php
+/bitrix/gadgets/bitrix/weather/lang/ru/exec/include.php

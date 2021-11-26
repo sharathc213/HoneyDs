@@ -1,0 +1,15 @@
+
+rst.void.ru
+r57.gen.tr
+r57.biz
+xshellz.com
+c99shellphp.com
+r57c99.com
+c99php.com
+localroot.net
+shells.altervista.org
+podathon.org/shell/
+
+# Reference: https://blog.trendmicro.com/trendlabs-security-intelligence/ensiko-a-webshell-with-ransomware-capabilities/
+
+/webshell/shell.php
