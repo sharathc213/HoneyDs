@@ -6,7 +6,7 @@
 
 ```
 sudo su
-cd /tmp/ && wget https://gitlab.com/Abdu007/honey-ds/-/raw/master/deploy_server.sh && bash deploy_server.sh
+cd /tmp/ && wget https://github.com/sharathc213/HoneyDs/blob/main/deploy_server.sh && bash deploy_server.sh
 
 ```
 
